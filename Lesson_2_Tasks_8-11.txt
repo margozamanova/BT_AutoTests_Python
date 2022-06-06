@@ -1,0 +1,16 @@
+Task 8
+ќткройте страницу https://opensource-demo.orangehrmlive.com/ и 
+напишите тест дл€ логина в систему.
+
+Task 9
+ќткройте страницу https://opensource-demo.orangehrmlive.com/ и 
+напишите тест дл€ создани€ пользовател€
+
+Task 10
+ќткройте страницу https://opensource-demo.orangehrmlive.com/ и 
+напишите тест дл€ удалени€ пользовател€
+
+Task 11
+ƒл€ сайта https://www.saucedemo.com/ напишите тест, 
+в котором добавл€етс€ 3 товара в корзину 
+и провер€етс€ количество товаров в корзине
